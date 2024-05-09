@@ -12,7 +12,7 @@ Learn to create, switch between, merge, and manage conflicts in Git branches.
 #### **Tasks:**
 
 1. **Create and Switch to a New Branch:**
-   - Create a new branch named `feature-add-about`:
+   - Create a new branch in your local computer named `feature-add-about`:
      ```
      git branch feature-add-about
      ```
