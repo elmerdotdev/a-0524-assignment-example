@@ -63,4 +63,4 @@ Learn to create, switch between, merge, and manage conflicts in Git branches.
      Example: git push -u origin feature-add-about
      ```
    - Git will automatically create a branch called `feature-add-about` in GitHub.
-   - Do the same for `feature-update-about`. You only need to do this once per branch.
+   - Do the same for `feature-update-about`.
