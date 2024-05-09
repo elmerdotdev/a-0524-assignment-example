@@ -7,7 +7,7 @@ Learn to create, switch between, merge, and manage conflicts in Git branches.
 
 1. **Clone the assignment:**
    - Copy the git assignment url. Example `https://github.com/username/assignmenturl.git`
-   - On a directory in your computer, run `git clone https://github.com/username/assignmenturl.git`
+   - On a directory in your computer, run `git clone https://github.com/username/assignmenturl.git` and open the directory in VS Code.
 
 #### **Tasks:**
 
