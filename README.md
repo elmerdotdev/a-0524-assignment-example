@@ -57,8 +57,10 @@ Learn to create, switch between, merge, and manage conflicts in Git branches.
      ```
 6. **Pushing your local branches to remote**
    - Although `feature-add-about` and `feature-update-about` branches exist, they only exist on your local computer and not on GitHub.
-   - If you wish to have them on your remote repository as well, you can run this command which will link the local and remote branches:
+   - If you wish to have them on your remote repository as well, switch to the `feature-add-about` branch and run this command which will link the local and remote branches:
      ```
-     git push -u origin local-branch-name:remote-branch-name
+     git push -u origin local-branch-name
+     Example: git push -u origin feature-add-about
      ```
-     You only need to do this once per branch
+   - Git will automatically create a branch called `feature-add-about` in GitHub.
+   - Do the same for `feature-update-about`. You only need to do this once per branch.
