@@ -1,5 +1,7 @@
 # Exercise - Git Branching
 
+![image](https://github.com/elmerdotdev/a-0524-git-branch-exercise/assets/13399450/1ab4c232-6aeb-45b7-9346-7136509a83f0)
+
 #### **Objective:**
 Learn to create, switch between, merge, and manage conflicts in Git branches.
 
